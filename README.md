@@ -1,14 +1,60 @@
-# Customize Your GitHub Copilot Experience
+# 📝 Customize Your GitHub Copilot Experience
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 🎯 Objective
 
-Hey patrik-tolomeotti!
+Learn how to personalize GitHub Copilot to fit your workflow, improve suggestion relevance, and boost productivity in your coding projects.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## 🗒️ Tasks
 
-Remember, it's self-paced so feel free to take a break! ☕️
+### 1. Explore Copilot Settings
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/patrik-tolomeotti/skills-customize-your-github-copilot-experience/issues/1)
+**Description:**  
+Open your IDE and review the available GitHub Copilot settings. Experiment with toggling features such as code suggestion frequency, language preferences, and inline completions.
+
+**Requirements:**
+- List at least three Copilot settings you changed or reviewed.
+- Briefly describe the effect of each setting.
+
+**Example:**
+```text
+- Enabled "Show Copilot suggestions as comments"
+- Set language preference to Python
+- Disabled Copilot for Markdown files
+```
+
+---
+
+### 2. Create a Custom Copilot Instruction
+
+**Description:**  
+Write a custom instruction for Copilot that guides it to suggest code in a specific style or for a particular use case.
+
+**Requirements:**
+- Add your instruction in the Copilot settings.
+- Provide a screenshot or description of your instruction.
+- Explain how this instruction changed Copilot’s suggestions.
+
+**Example:**
+```text
+Instruction: "Suggest code using functional programming patterns in Python."
+Result: Copilot now recommends using map, filter, and lambda functions more often.
+```
+
+---
+
+### 3. Reflect on Your Experience
+
+**Description:**  
+Summarize what you learned about customizing Copilot and how it impacted your coding workflow.
+
+**Requirements:**
+- Write 2-3 sentences reflecting on your experience.
+- Mention any challenges or improvements you noticed.
+
+**Example:**
+```text
+Customizing Copilot made suggestions more relevant to my project. I found the custom instructions especially useful for focusing on Python best practices.
+```
 
 ---
 
